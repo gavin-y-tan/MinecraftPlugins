@@ -1,0 +1,7 @@
+main: me.GavinTan.Compass.Main
+name: Compass
+version: 1.0
+author: GavinTan
+
+commands:
+  Hello:
