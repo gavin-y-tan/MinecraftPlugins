@@ -1,0 +1,7 @@
+main: me.GavinTan.CompassMultiple.Main
+name: Compass2
+version: 1.0
+author: GavinTan
+
+commands:
+  hellotwo:
