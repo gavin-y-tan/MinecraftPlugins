@@ -1,0 +1,10 @@
+main: me.GavinTan.Swap.Main
+name: Swap
+version: 1.0
+author: GavinTan
+
+commands:
+  join:
+  start:
+  order:
+  leave:
