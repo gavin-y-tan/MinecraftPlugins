@@ -1,5 +1,5 @@
 # MinecraftPlugins
-Plugins that implement custom Minecraft gamemodes from the the YouTube Channel "Dream"
+Plugins that implement custom Minecraft gamemodes.
 
 Compass allows a certain player to be tracked when interacting with any compass item. CompassMultiple allows for multiple players to be tracked by the compass.
 
